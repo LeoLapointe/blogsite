@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>News on Blog Léo</title>
-    <link>https://leolapointe.github.io/blogsite/new/</link>
+    <link>https://leolapointe.github.io/new/</link>
     <description>Recent content in News on Blog Léo</description>
     <generator>Hugo -- 0.145.0</generator>
     <language>fr-ca</language>
     <lastBuildDate></lastBuildDate>
-    <atom:link href="https://leolapointe.github.io/blogsite/new/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://leolapointe.github.io/new/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
